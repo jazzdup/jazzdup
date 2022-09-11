@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [The Alternative Leveson 2 Project](https://www.altlev.org/)
 
-- 💬 Ask me about **Java, Google Cloud, Docker, Kafka, Kubernetes, Helm, Python, Spacy, Neo4j, Elephants, Psychology, Make-up, Fashion, Drag, Palermo, Venice, South America, South-East Asia**
+- 💬 Ask me about **Java, Google Cloud, Docker, Kafka, Kubernetes, Helm, Python, Spacy, Neo4j, DevSecOps, Telecoms, Consultancies, Government, Elephants, Psychology, Make-up, Fashion, Drag, Palermo, Venice, South America, South-East Asia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
